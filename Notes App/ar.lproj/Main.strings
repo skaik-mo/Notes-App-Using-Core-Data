@@ -1,0 +1,192 @@
+
+/* Class = "UILabel"; text = "Update your data..."; ObjectID = "01d-gc-nUV"; */
+"01d-gc-nUV.text" = "تحديث بياناتك ...";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "1rn-tY-WDS"; */
+"1rn-tY-WDS.normalTitle" = "التسجيل";
+
+/* Class = "UILabel"; text = "iOS Course - Notes App V1.0"; ObjectID = "3vv-YG-fTL"; */
+"3vv-YG-fTL.text" = "iOS Course - Notes App V1.0";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "4cv-F3-EZC"; */
+"4cv-F3-EZC.normalTitle" = "التسجيل";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "6Tf-of-eo4"; */
+"6Tf-of-eo4.placeholder" = "اسم المستخدم";
+
+/* Class = "UILabel"; text = "Notes for work..."; ObjectID = "6Zf-Qa-y13"; */
+"6Zf-Qa-y13.text" = "Notes for work...";
+
+/* Class = "UILabel"; text = "Create an account"; ObjectID = "7iP-Sr-hO2"; */
+"7iP-Sr-hO2.text" = "إنشاء حساب";
+
+/* Class = "UITextField"; placeholder = "Short Description"; ObjectID = "85O-XB-UBc"; */
+"85O-XB-UBc.placeholder" = "الوصف";
+
+/* Class = "UILabel"; text = "Done Notes"; ObjectID = "8hS-ec-AEs"; */
+"8hS-ec-AEs.text" = "ملاحظات مكتملة";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "9EY-x1-FZq"; */
+"9EY-x1-FZq.normalTitle" = "حفظ";
+
+/* Class = "UITextField"; placeholder = "First name"; ObjectID = "9VX-rn-b3R"; */
+"9VX-rn-b3R.placeholder" = "الاسم الاول";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "BUP-X0-GL3"; */
+"BUP-X0-GL3.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "DFM-Oy-M2e"; */
+"DFM-Oy-M2e.normalTitle" = "حفظ";
+
+/* Class = "UILabel"; text = "Go to Privacy Policy..."; ObjectID = "EIa-Au-ik3"; */
+"EIa-Au-ik3.text" = "انتقل إلى سياسة الخصوصية ...";
+
+/* Class = "UILabel"; text = "Note Title"; ObjectID = "I7D-0C-siC"; */
+"I7D-0C-siC.text" = "Note Title";
+
+/* Class = "UILabel"; text = "What is notes app?"; ObjectID = "IMz-G2-P6b"; */
+"IMz-G2-P6b.text" = "ما هو تطبيق الملاحظات؟";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "Ijc-L6-Bz0"; */
+"Ijc-L6-Bz0.text" = "التسجيل";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "KGc-YM-e3E"; */
+"KGc-YM-e3E.placeholder" = "البريد الالكتروني";
+
+/* Class = "UILabel"; text = "Privacy policy"; ObjectID = "MTs-W5-Ob7"; */
+"MTs-W5-Ob7.text" = "سياسة خصوصية";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "NhK-yb-WqD"; */
+"NhK-yb-WqD.text" = "ليس لديك حساب؟";
+
+/* Class = "UILabel"; text = "mohamed@gmail.com"; ObjectID = "Ob7-6w-I4A"; */
+"Ob7-6w-I4A.text" = "mohamed@gmail.com";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "P0O-YC-HXY"; */
+"P0O-YC-HXY.text" = "تسجيل خروج";
+
+/* Class = "UILabel"; text = "W"; ObjectID = "P96-xZ-Clh"; */
+"P96-xZ-Clh.text" = "W";
+
+/* Class = "UILabel"; text = "mohamed"; ObjectID = "Pp2-RD-oJO"; */
+"Pp2-RD-oJO.text" = "mohamed";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "QF0-2m-GhW"; */
+"QF0-2m-GhW.normalTitle" = "حفظ";
+
+/* Class = "UINavigationItem"; title = "Category name"; ObjectID = "QJC-Lf-kge"; */
+"QJC-Lf-kge.title" = "Category name";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "RwO-jY-a5a"; */
+"RwO-jY-a5a.text" = "الملف الشخصي";
+
+/* Class = "UILabel"; text = "New Category"; ObjectID = "SmS-gB-smd"; */
+"SmS-gB-smd.text" = "فئة جديدة";
+
+/* Class = "UILabel"; text = "New Note"; ObjectID = "TEb-JT-jLB"; */
+"TEb-JT-jLB.text" = "ملاحظة جديدة";
+
+/* Class = "UILabel"; text = "M"; ObjectID = "UKr-9l-8ya"; */
+"UKr-9l-8ya.text" = "M";
+
+/* Class = "UILabel"; text = "Lorem Ipsum is simply dummy text of the \nprinting and typesetting industry. Lorem \nIpsum has been the industry’s standard \ndummy text ever since the 1500s,"; ObjectID = "WEY-03-tVO"; */
+"WEY-03-tVO.text" = "Lorem Ipsum is simply dummy text of the \nprinting and typesetting industry. Lorem \nIpsum has been the industry’s standard \ndummy text ever since the 1500s,";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "WRz-Nf-3rF"; */
+"WRz-Nf-3rF.placeholder" = "الهاتف";
+
+/* Class = "UILabel"; text = "Sign In"; ObjectID = "Xfp-bL-Ozn"; */
+"Xfp-bL-Ozn.text" = "تسجيل دخول";
+
+/* Class = "UILabel"; text = "14"; ObjectID = "YDJ-GI-GKI"; */
+"YDJ-GI-GKI.text" = "14";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "YFw-jl-fCn"; */
+"YFw-jl-fCn.placeholder" = "كلمه السر";
+
+/* Class = "UILabel"; text = "Work"; ObjectID = "aaD-ca-Fm3"; */
+"aaD-ca-Fm3.text" = "Work";
+
+/* Class = "UILabel"; text = "14"; ObjectID = "b0B-d9-nW7"; */
+"b0B-d9-nW7.text" = "14";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "bOb-XL-bN4"; */
+"bOb-XL-bN4.placeholder" = "الهاتف";
+
+/* Class = "UILabel"; text = "Mohamed Skaik"; ObjectID = "cdo-1h-Att"; */
+"cdo-1h-Att.text" = "Mohamed Skaik";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "dqz-k2-DZl"; */
+"dqz-k2-DZl.placeholder" = "كلمة السر";
+
+/* Class = "UILabel"; text = "14"; ObjectID = "eHG-LM-u45"; */
+"eHG-LM-u45.text" = "14";
+
+/* Class = "UILabel"; text = "M"; ObjectID = "ezE-aU-zVB"; */
+"ezE-aU-zVB.text" = "M";
+
+/* Class = "UILabel"; text = "Login to start using app"; ObjectID = "f7N-pf-b0r"; */
+"f7N-pf-b0r.text" = "تسجيل الدخول لبدء استخدام التطبيق";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "fQ2-wn-Sdj"; */
+"fQ2-wn-Sdj.placeholder" = "الاسم الاخير";
+
+/* Class = "UITextField"; placeholder = "Category"; ObjectID = "fYY-9p-lYk"; */
+"fYY-9p-lYk.placeholder" = "الفئة";
+
+/* Class = "UILabel"; text = "Selected language: EN"; ObjectID = "hQB-99-z27"; */
+"hQB-99-z27.text" = "اللغة المختارة: AR";
+
+/* Class = "UITextField"; placeholder = "Titile"; ObjectID = "hn4-ef-lXO"; */
+"hn4-ef-lXO.placeholder" = "العنوان";
+
+/* Class = "UILabel"; text = "mohamed@gmail.com"; ObjectID = "i3L-VC-YjY"; */
+"i3L-VC-YjY.text" = "mohamed@gmail.com";
+
+/* Class = "UILabel"; text = "Categories"; ObjectID = "iMi-Xi-ri5"; */
+"iMi-Xi-ri5.text" = "التصنيفات";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "k3J-VB-Q0S"; */
+"k3J-VB-Q0S.placeholder" = "الوصف";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "kTd-pY-Row"; */
+"kTd-pY-Row.placeholder" = "البريد الالكتروني";
+
+/* Class = "UITextField"; placeholder = "First name"; ObjectID = "nCi-Ep-PEw"; */
+"nCi-Ep-PEw.placeholder" = "الاسم الاول";
+
+/* Class = "UILabel"; text = "About App"; ObjectID = "nEW-tC-nzC"; */
+"nEW-tC-nzC.text" = "حول التطبيق";
+
+/* Class = "UINavigationItem"; title = "Categories"; ObjectID = "pql-en-0dT"; */
+"pql-en-0dT.title" = "التصنيفات";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "pxZ-IZ-0TM"; */
+"pxZ-IZ-0TM.placeholder" = "الاسم الاخير";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "t9z-oi-EUQ"; */
+"t9z-oi-EUQ.text" = "اللغة";
+
+/* Class = "UILabel"; text = "Waiting your return..."; ObjectID = "tYN-en-2rV"; */
+"tYN-en-2rV.text" = "في انتظار عودتك ...";
+
+/* Class = "UILabel"; text = "iOS Course - Notes App V1.0"; ObjectID = "wpB-0v-51p"; */
+"wpB-0v-51p.text" = "iOS Course - Notes App V1.0";
+
+/* Class = "UILabel"; text = "Create category"; ObjectID = "xur-8R-sOl"; */
+"xur-8R-sOl.text" = "Create category";
+
+/* Class = "UILabel"; text = "Witing Notes"; ObjectID = "z9n-aX-dCl"; */
+"z9n-aX-dCl.text" = "الملاحظات المنتظرة";
+
+/* Class = "UILabel"; text = "Create note"; ObjectID = "zrQ-zl-kBT"; */
+"zrQ-zl-kBT.text" = "إنشاء ملاحظة";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "2nS-IP-N3U"; */
+"2nS-IP-N3U.title" = "الإعدادات";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "qwp-VS-6jU"; */
+"qwp-VS-6jU.title" = "الملف الشخصي";
+
+/* Class = "UINavigationItem"; title = "About App"; ObjectID = "beA-65-nHr"; */
+"beA-65-nHr.title" = "حول التطبيق";

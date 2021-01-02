@@ -1,0 +1,31 @@
+/*
+  Localizable.strings
+  Notes App
+
+  English
+ 
+  Created by Mohamed Skaik on 27/10/2020.
+  Copyright © 2020 Mohamed Skaik. All rights reserved.
+*/
+
+"LanguageSheetTitle" = "Change Language";
+"LanguageSheetMessage" = "Select Language";
+"LanguageCategory" = "Category";
+"LanguageUpdateCategory" = "Update Category";
+"LanguageNewCategory" = "New Category";
+"LanguageNote" = "Note";
+"LanguageUpdateNote" = "Update Note";
+"LanguageNewNote" = "New Note";
+"LanguageSuccessful" = "Successful";
+"LanguageError" = "Error !!";
+"LanguageEnterInfo" = "Enter Info";
+"LanguageEmailOrUsernameIsExists" = "Email Or username is exists";
+"LanguageLoginFailed" = "LOGIN FAILED, PLEASE CHECK LOGIN CREDENTIALS";
+"LanguageDoneCreate" = "Done Create";
+"LanguageFailedCreate" = "Failed Create";
+"LanguageDoneUpdate" = "Done Update";
+"LanguageFailedUpdate" = "Failed Update";
+"LanguageFirstNameAlreadyExists" = "First Name already exists";
+"LanguageEmailAlreadyExists" = "Email already exists";
+"LanguageFirstName&EmailAlreadyExists" = "First Name and Email already exists";
+
